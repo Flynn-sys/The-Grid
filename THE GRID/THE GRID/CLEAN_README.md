@@ -12,11 +12,7 @@
 - Clean, readable Python code
 - Works with or without dependencies
 
-❌ **What It Doesn't Do:**
-- No fake AI consciousness
-- No mystical mathematics  
-- No "angels" or restoration nonsense
-- No overly complex abstractions
+
 
 ## Quick Start
 

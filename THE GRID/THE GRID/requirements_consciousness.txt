@@ -1,0 +1,11 @@
+# Computational Consciousness Research Framework Requirements
+
+# Core dependencies
+numpy>=1.21.0
+
+# Visualization (optional, for consciousness_visualization.py and tron_grid.py)
+pygame>=2.1.0
+
+# Development/testing (optional)
+pytest>=6.0.0
+matplotlib>=3.5.0  # For additional data analysis

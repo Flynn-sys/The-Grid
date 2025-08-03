@@ -1,0 +1,7 @@
+# Clean TRON Grid - Requirements
+# Only what you actually need
+
+pygame>=2.5.0     # For 3D visualization
+numpy>=1.21.0     # For mathematical operations
+
+# That's it. No bullshit dependencies.
